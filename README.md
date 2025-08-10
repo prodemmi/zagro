@@ -1,3 +1,5 @@
+<a href="https://pkg.go.dev/github.com/prodemmi/zagro"><img src="https://pkg.go.dev/badge/github.com/prodemmi/zagro.svg" alt="Go Reference"></a>
+
 # Zagro
 
 A lightweight, concurrency-safe **EventEmitter** implementation for Go, inspired by JavaScript’s EventEmitter.
